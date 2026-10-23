@@ -1,6 +1,6 @@
 # Achadim · landing page
 
-Site estático: não precisa de build. Basta enviar esta pasta para qualquer hospedagem (Vercel, Netlify, GitHub Pages, Cloudflare Pages ou o servidor de vocês).
+Site estático:
 
 ```
 index.html          Página principal
