@@ -1,0 +1,5 @@
+# Achadim · todos os robôs, inclusive os de assistentes de IA, podem ler o site.
+User-agent: *
+Allow: /
+
+Sitemap: https://achadim.com.br/sitemap.xml

@@ -1,0 +1,38 @@
+# Achadim
+
+> O Achadim é um app para Android e iOS, grátis para quem compra, que reúne pequenos empreendedores e feiras de uma cidade. Quem compra vê as lojas por perto, os produtos em foto e vídeo, a agenda das feiras e fala direto com o lojista pelo WhatsApp. Quem vende cadastra a própria loja pelo app, e a equipe Achadim analisa o cadastro e responde por e-mail em até 24h. O lojista tem o primeiro mês grátis, contado a partir do dia em que a loja entra no ar; depois, continua com um plano de assinatura mensal. Slogan: "Ache o que se vende pertim de você".
+
+O Achadim é um produto da Jangada Tech. Começa por Fortaleza (CE), em fase piloto, e abre novas cidades do Ceará conforme lojistas e feiras se cadastram. O app ainda não está publicado nas lojas de aplicativos; o site tem uma lista de espera.
+
+## Para quem compra
+
+- Escolha a cidade pela localização ou pela lista.
+- Veja as lojas ordenadas pela distância, filtradas por categoria: Comida, Artesanato, Moda e Hortifrúti.
+- Cada loja tem vitrine com fotos e vídeos de até 30 segundos, preço, endereço ou ponto fixo, feiras de que participa, WhatsApp, Instagram e avaliações de 1 a 5 estrelas (com meia estrela) e comentário.
+- A agenda das feiras mostra dias, horários e lojas participantes, com o selo "Hoje" quando a feira acontece.
+- Lojas podem ser salvas nos favoritos.
+- A venda acontece diretamente entre cliente e lojista, pelo WhatsApp ou na feira.
+
+## Para quem vende
+
+- Cadastro em 4 passos: negócio, contato e local, vitrine (fotos e vídeos), revisar e enviar.
+- O lojista não precisa estar em uma feira: pode informar só um ponto fixo.
+- Após o envio, aparece "Já recebemos seu cadastro! Você será notificado(a) por e-mail em até 24h". A análise é feita por uma pessoa da equipe.
+- Primeiro mês grátis. Depois, plano de assinatura mensal; os planos e valores serão divulgados antes do fim do teste.
+- Sem assinatura após o teste, a loja deixa de aparecer para os clientes, mas nada é apagado.
+- Organizadores de feiras pedem a inclusão da feira pela equipe Achadim.
+
+## Perguntas frequentes
+
+- **O Achadim cobra alguma coisa?** Para quem compra, o Achadim é grátis. Para o lojista, o primeiro mês é grátis, contado a partir do dia em que a loja entra no ar. Depois disso, a loja continua no app com um plano de assinatura mensal. Os planos e valores serão divulgados antes do fim do teste.
+- **O que acontece se eu não assinar depois do teste?** Sua loja deixa de aparecer para os clientes, mas nada é apagado. Se você assinar depois, ela volta ao ar do jeito que estava.
+- **Como falo com uma loja?** Abra a loja no app e toque em WhatsApp. A conversa já começa com uma mensagem pronta, e a venda é toda entre você e o lojista.
+- **Como coloco minha loja no app?** No app, toque em Perfil e depois em “Coloque sua loja no Achadim”. São 4 passos, com fotos e vídeos dos seus produtos. Nossa equipe responde por e-mail em até 24h.
+- **Preciso estar em uma feira para entrar?** Não. Você pode informar só o seu ponto fixo, uma ou mais feiras, ou os dois.
+- **Vocês guardam minha localização?** Não. A localização serve só para mostrar sua cidade e ordenar lojas e feiras pela distância, e você pode desligar quando quiser.
+- **Organizo uma feira. Como ela entra no Achadim?** Entre na lista abaixo marcando “Sou lojista” e conte qual é a sua feira. Nossa equipe cadastra a feira com dias, horários e endereço.
+
+## Links
+
+- [Site](https://achadim.com.br/)
+- [Lista de espera](https://achadim.com.br/#lista)
